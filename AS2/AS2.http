@@ -1,0 +1,6 @@
+@AS2_HostAddress = http://localhost:5058
+
+GET {{AS2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
